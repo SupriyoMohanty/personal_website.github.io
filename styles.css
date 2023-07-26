@@ -1,7 +1,7 @@
 .top-container{
     position: relative;
     padding: 200px;
-    background-image:linear-gradient(to top, rgb(251, 251, 251), rgba(255, 255, 255, 0)),url("/Users/supriyomohanty/Desktop/Udemy Web Development/Personal Website/Professional site/CSS - My Site Images/pexels-pnw-production-8251001.jpg");
+    background-image:linear-gradient(to top, rgb(251, 251, 251), rgba(255, 255, 255, 0)),url("pexels-pnw-production-8251001.jpg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
@@ -31,7 +31,7 @@ body{
    margin: 0;
    text-align: center;
    font-family:  'Merriweather', serif;
-   background-image: url("/Users/supriyomohanty/Desktop/Udemy Web Development/Personal Website/Professional site/CSS - My Site Images/pexels-scott-webb-305821.jpg"), linear-gradient(to left, rgba(255, 255, 255, 0),rgb(251, 251, 251));
+   background-image: url("pexels-scott-webb-305821.jpg"), linear-gradient(to left, rgba(255, 255, 255, 0),rgb(251, 251, 251));
    background-repeat: no-repeat;
    background-position: bottom;
    background-blend-mode:soft-light;
