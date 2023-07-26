@@ -31,7 +31,7 @@ body{
    margin: 0;
    text-align: center;
    font-family:  'Merriweather', serif;
-   background-image: url("https://images.unsplash.com/photo-1483794344563-d27a8d18014e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80"), linear-gradient(to left, rgba(255, 255, 255, 0),rgb(251, 251, 251));
+   background-image: url("pexels-scott-webb-305821.JPG"), linear-gradient(to left, rgba(255, 255, 255, 0),rgb(251, 251, 251));
    background-repeat: no-repeat;
    background-position: bottom;
    background-blend-mode:soft-light;
