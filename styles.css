@@ -1,7 +1,7 @@
 .top-container{
     position: relative;
     padding: 200px;
-    background-image:linear-gradient(to top, rgb(251, 251, 251), rgba(255, 255, 255, 0)),url("pexels-pnw-production-8251001.JPG");
+    background-image:linear-gradient(to top, rgb(251, 251, 251), rgba(255, 255, 255, 0)),url("https://images.pexels.com/photos/8251001/pexels-photo-8251001.jpeg");
     background-repeat: no-repeat;
     background-position: bottom;
     background-size: cover;
